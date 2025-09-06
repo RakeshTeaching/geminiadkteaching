@@ -4,10 +4,11 @@ This directory contains an example of a multi-tool agent built using the Google 
 
 ## Project Structure
 
-- `firstagent/multi_tool_agent/agent.py`: Contains the core logic for the Gemini agent, including the `add_to_do_item` and `list_to_do_items` functions, and the agent definition.
-- `firstagent/multi_tool_agent/__init__.py`: An empty file indicating that `multi_tool_agent` is a Python package.
-- `firstagent/multi_tool_agent/.env`: (Optional) Environment variables for the agent.
+- `multi_tool_agent/agent.py`: Contains the core logic for the Gemini agent, including the `add_to_do_item` and `list_to_do_items` functions, and the agent definition.
+- `multi_tool_agent/__init__.py`: An empty file indicating that `multi_tool_agent` is a Python package.
+- `multi_tool_agent/.env`: (Optional) Environment variables for the agent.
 - `requirements.txt`: Lists the Python dependencies required for this project.
+- `.gitignore`: Specifies intentionally untracked files to ignore.
 
 ## Agent Functionality
 
