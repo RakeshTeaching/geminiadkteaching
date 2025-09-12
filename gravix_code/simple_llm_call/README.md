@@ -1,6 +1,6 @@
-# Gravix Layer API Example
+# Simple LLM Call Example
 
-This project demonstrates how to use the Gravix Layer API with a Python script.
+This project demonstrates how to make a simple call to the Gravix Layer API using a Python script.
 
 ## Setup
 
